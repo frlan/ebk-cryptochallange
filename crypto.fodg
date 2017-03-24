@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.graphics">
- <office:meta><meta:creation-date>2017-03-17T23:57:42.651116792</meta:creation-date><dc:date>2017-03-22T20:50:11.159907236</dc:date><meta:editing-duration>PT9H36M45S</meta:editing-duration><meta:editing-cycles>11</meta:editing-cycles><meta:generator>LibreOffice/5.2.5.1$Linux_X86_64 LibreOffice_project/20m0$Build-1</meta:generator><meta:print-date>2017-03-19T20:14:14.040075704</meta:print-date><meta:document-statistic meta:object-count="49"/></office:meta>
+ <office:meta><meta:creation-date>2017-03-17T23:57:42.651116792</meta:creation-date><dc:date>2017-03-25T00:33:23.689850910</dc:date><meta:editing-duration>PT10H3M51S</meta:editing-duration><meta:editing-cycles>13</meta:editing-cycles><meta:generator>LibreOffice/5.2.5.1$Linux_X86_64 LibreOffice_project/20m0$Build-1</meta:generator><meta:print-date>2017-03-25T00:04:26.212004428</meta:print-date><meta:document-statistic meta:object-count="49"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">9346</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">3327</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">18502</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">15016</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">8788</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">1153</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">19560</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">18124</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -30,16 +30,16 @@
      <config:config-item config:name="SnapLinesDrawing" config:type="string">H3000V3700V12700H1300V4600</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">true</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">4</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">9346</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">3327</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">16015</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">15056</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">8788</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">1153</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">19561</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">18125</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">1000</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">100</config:config-item>
@@ -91,7 +91,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Xerox_WorkCentre_6605DN</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ogH+/1hlcm94X1dvcmtDZW50cmVfNjYwNUROAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpYZXJveF9Xb3JrQ2VudHJlXzY2MDVETgAAAAAWAAMAyAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9WGVyb3hfV29ya0NlbnRyZV82NjA1RE4Kb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhCkR1cGxleDpOb25lAFBhZ2VTaXplOkE0AAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ogH+/1hlcm94X1dvcmtDZW50cmVfNjYwNUROAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpYZXJveF9Xb3JrQ2VudHJlXzY2MDVETgAAAAAWAAMAyAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9WGVyb3hfV29ya0NlbnRyZV82NjA1RE4Kb3JpZW50YXRpb249UG9ydHJhaXQKY29waWVzPTEKY29sbGF0ZT1mYWxzZQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9MApQUERDb250ZXhEYXRhClBhZ2VTaXplOkE0AER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ScaleDenominator" config:type="int">1</config:config-item>
    <config:config-item config:name="ScaleNumerator" config:type="int">1</config:config-item>
@@ -100,7 +100,9 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
@@ -272,9 +274,12 @@
    <style:graphic-properties svg:stroke-color="#000000" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="5.35cm" fo:min-width="17.4cm" fo:wrap-option="wrap"/>
   </style:style>
   <style:style style:name="gr11" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties svg:stroke-color="#000000" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="7.35cm" fo:min-width="17.6cm" fo:wrap-option="wrap"/>
+   <style:graphic-properties svg:stroke-color="#000000" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="6.25cm" fo:min-width="17.4cm" fo:wrap-option="wrap"/>
   </style:style>
   <style:style style:name="gr12" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties svg:stroke-color="#000000" draw:fill="none" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="top" draw:auto-grow-height="false" fo:min-height="7.35cm" fo:min-width="17.6cm" fo:wrap-option="wrap"/>
+  </style:style>
+  <style:style style:name="gr13" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" fo:min-height="1.423cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
@@ -501,6 +506,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:desc>/home/robby/Desktop/logo.dxf - scale = 1.000000</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="6.928cm" svg:height="1.3cm" svg:x="12.772cm" svg:y="1.7cm">
      <draw:image xlink:href="">
@@ -1273,7 +1279,7 @@
     </draw:line>
     <draw:custom-shape draw:style-name="gr5" draw:text-style-name="P4" draw:layer="layout" svg:width="17.9cm" svg:height="6.1cm" svg:x="1.5cm" svg:y="4.6cm">
      <text:p text:style-name="P3"><text:span text:style-name="T2">Beschreibung</text:span><text:span text:style-name="T3">:</text:span></text:p>
-     <text:p text:style-name="P3"><text:span text:style-name="T4">Nachdem Eure Klasse zum wiederholten Mal Unsinn </text:span><text:span text:style-name="T4">im Unterricht gemacht hat, lädt Euer Lehrer zu </text:span><text:span text:style-name="T4">einem Elternabend ein. Damit Eure Klasse nichts von </text:span><text:span text:style-name="T4">der Versammlung erfährt, verschlüsselt der Lehrer </text:span><text:span text:style-name="T4">die Botschaft an die Eltern. Leider hat er nicht mit </text:span><text:span text:style-name="T4">Euch gerechnet! Wann findet die Versammlung statt?</text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T4">Nachdem Eure Klasse zum wiederholten Mal Unsinn im Unterricht gemacht hat, lädt Euer Lehrer zu einem Elternabend ein. Damit Eure Klasse nichts von der Versammlung erfährt, verschlüsselt der Lehrer die Botschaft an die Eltern. Leider hat er nicht mit Euch gerechnet! Wann findet die Versammlung statt?</text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T3"/></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T3"/></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
@@ -1283,7 +1289,7 @@
      <text:p text:style-name="P3"><text:span text:style-name="T4"/></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T7">Mjfcf Fmufso,</text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T7"><text:s/></text:span></text:p>
-     <text:p text:style-name="P3"><text:span text:style-name="T7">Xjs usfggfo vot </text:span><text:span text:style-name="T7">gvfs ejf obfditufo </text:span><text:span text:style-name="T7">Fmufsobcfoe bn </text:span><text:span text:style-name="T7">Tpooubh.</text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T7">Xjs usfggfo vot gvfs ejf obfditufo Fmufsobcfoe bn Tpooubh.</text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T7"/></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T7">Fvfs Dbftbs</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
@@ -2102,6 +2108,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:desc>/home/robby/Desktop/logo.dxf - scale = 1.000000</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="6.928cm" svg:height="1.3cm" svg:x="12.772cm" svg:y="1.701cm">
      <draw:image xlink:href="">
@@ -3472,6 +3479,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:title>Pirate</svg:title>
     </draw:frame>
     <draw:frame draw:name="logo.svg" draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="2.2cm" svg:height="2.2cm" svg:x="1.5cm" svg:y="1.301cm">
      <draw:image xlink:href="">
@@ -3554,6 +3562,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:desc>/home/robby/Desktop/logo.dxf - scale = 1.000000</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="6.928cm" svg:height="1.3cm" svg:x="12.772cm" svg:y="1.701cm">
      <draw:image xlink:href="">
@@ -4424,6 +4433,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:desc>/home/robby/Desktop/logo.dxf - scale = 1.000000</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="6.928cm" svg:height="1.3cm" svg:x="12.772cm" svg:y="1.701cm">
      <draw:image xlink:href="">
@@ -5194,10 +5204,11 @@
     </draw:frame>
    </draw:page>
    <draw:page draw:name="page5" draw:style-name="dp2" draw:master-page-name="Default">
-    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P9" draw:layer="layout" svg:width="17.9cm" svg:height="5.6cm" svg:x="1.6cm" svg:y="13cm">
+    <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P9" draw:layer="layout" svg:width="17.9cm" svg:height="6.5cm" svg:x="1.6cm" svg:y="13cm">
      <text:p text:style-name="P3"><text:span text:style-name="T13">Botschaft</text:span><text:span text:style-name="T14">:</text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T15"/></text:p>
-     <text:p text:style-name="P3"><text:span text:style-name="T15">1-1,1-2,1-3,1-4,1-5,1-6,1-7,1-8,1-9,1-10,1-11,1-11,1-13,1-14,1-15,1-16,1-17,3-19,2-5,2-6,2-18,2-2,2-3 </text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T15">8-6,1-2,1-4,1-</text:span><text:span text:style-name="T15">5,1-11,1-14,11-</text:span><text:span text:style-name="T15">1,1-13,2-6,2-</text:span><text:span text:style-name="T15">18,1-13,1-6,1-</text:span><text:span text:style-name="T15">6,1-13,2-3:1-</text:span><text:span text:style-name="T15">1,1-2,1-3,1-4,1-</text:span><text:span text:style-name="T15">5,1-6,1-7,1-8,1-</text:span><text:span text:style-name="T15">9,1-10,1-11,1-</text:span><text:span text:style-name="T15">11,1-13,1-14,2-</text:span><text:span text:style-name="T15">16,2-14,1-15, 1-</text:span><text:span text:style-name="T15">16,11-17,1-13,8-</text:span><text:span text:style-name="T15">6</text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T15"/></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T12"/></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T12"/></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
@@ -5209,7 +5220,7 @@
     <draw:line draw:style-name="gr4" draw:text-style-name="P1" draw:layer="layout" svg:x1="1cm" svg:y1="3.8cm" svg:x2="20cm" svg:y2="3.8cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr11" draw:text-style-name="P8" draw:layer="layout" svg:width="18.1cm" svg:height="7.6cm" svg:x="1.5cm" svg:y="4.6cm">
+    <draw:custom-shape draw:style-name="gr12" draw:text-style-name="P8" draw:layer="layout" svg:width="18.1cm" svg:height="7.6cm" svg:x="1.5cm" svg:y="4.6cm">
      <text:p text:style-name="P3"><text:span text:style-name="T10">Beschreibung</text:span><text:span text:style-name="T11">:</text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T12">Der etwas verrückte und leider auch etwas vergesliche Onkel Jack isst für sein Leben gern Fish&amp;Chips – aber nur, wenn diese in alter Zeitung eingeschlagen sind. Während er sie isst, liest er die Zeitung und kritzelt etwas auf ein Stück Papier. Heute hat er nach dem Essen, neben dem Altfischzeitungspapier, seinem Notzzettel auch seine Einkaufstasche stehen gelassen. Auf der Zeitung hat er einen Artikel markiert. Wo wollte er vielleicht hin? </text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T11"/></text:p>
@@ -5297,6 +5308,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:desc>/home/robby/Desktop/logo.dxf - scale = 1.000000</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="6.928cm" svg:height="1.3cm" svg:x="12.772cm" svg:y="1.701cm">
      <draw:image xlink:href="">
@@ -6060,7 +6072,7 @@
       <text:p><text:span text:style-name="T1">Cryptochallenge</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P6" draw:layer="layout" svg:width="6.3cm" svg:height="1.673cm" svg:x="4.3cm" svg:y="2.9cm">
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P6" draw:layer="layout" svg:width="6.3cm" svg:height="1.673cm" svg:x="4.3cm" svg:y="2.9cm">
      <draw:text-box>
       <text:p>1.3 <text:s/>Fish and Chips</text:p>
      </draw:text-box>
@@ -28044,7 +28056,7 @@
      <text:p text:style-name="P3"><text:span text:style-name="T8">Hier wurde eine Buch-Chiffre eingeetzt. Dabei nimmt man ein Buch und übersetzt die Zeichen der Botschaft in Zeichen aus dem Buch. Das Geheimnis liegt darin, auf der richtigen Seite im genau richtigen Buch zu suchen. Die Ziffern geben dabei in der Regel die Zeilen-Spalten-Kombination ein.</text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T2"><text:s/></text:span></text:p>
      <text:p text:style-name="P3"><text:span text:style-name="T2">Entschlüsselung:</text:span></text:p>
-     <text:p text:style-name="P3"><text:span text:style-name="T8">Onkel Jack hat seine Notiz mit Hilfe der Zeichen des Zeitungsartikel verschlüsselt. Um es zu entschlüsseln, muss man ein Raster über den Artkel legen – inklusive Leerzeichen – und die angegebenen Zahlen in dem so entstehenden Koordinatensystem abtragen. Der übersetze Text lautet: »Milchschnitte ausborgen« – ob er ins Seniorenheim gegangen ist?</text:span></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T8">Onkel Jack hat seine Notiz mit Hilfe der Zeichen des Zeitungsartikel verschlüsselt. Um es zu entschlüsseln, muss man ein Raster über den Artkel legen – inklusive Leerzeichen – und die angegebenen Zahlen in dem so entstehenden Koordinatensystem abtragen. Der übersetze Text lautet: »Nicht vergessen: Milchschnitte kaufen« – ob er ins Seniorenheim gegangen ist?</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr3" draw:text-style-name="P1" draw:layer="layout" svg:width="19cm" svg:height="27.7cm" svg:x="1cm" svg:y="1cm">
@@ -28135,6 +28147,7 @@
       </office:binary-data>
       <text:p/>
      </draw:image>
+     <svg:desc>/home/robby/Desktop/logo.dxf - scale = 1.000000</svg:desc>
     </draw:frame>
     <draw:frame draw:style-name="gr1" draw:text-style-name="P1" draw:layer="layout" svg:width="6.928cm" svg:height="1.3cm" svg:x="12.772cm" svg:y="1.701cm">
      <draw:image xlink:href="">
@@ -28898,7 +28911,7 @@
       <text:p><text:span text:style-name="T1">Cryptochallenge</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P6" draw:layer="layout" svg:width="6.3cm" svg:height="1.673cm" svg:x="4.3cm" svg:y="2.901cm">
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P6" draw:layer="layout" svg:width="6.3cm" svg:height="1.673cm" svg:x="4.3cm" svg:y="2.901cm">
      <draw:text-box>
       <text:p>1.3 <text:s/>Fish and Chips</text:p>
      </draw:text-box>
